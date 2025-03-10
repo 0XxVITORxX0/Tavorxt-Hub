@@ -311,7 +311,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
+local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "TavorXt Hub",
     SubTitle = "",
@@ -2639,7 +2639,7 @@ v24.CornerRadius = UDim.new(0, 12);
 v25.Parent = v23;
 v25.LightEmission = 1;
 v25.Size = NumberSequence.new({
-    NumberSequenceKeypoint.new(0, 0.1),
+    NumberSequenceKeypoint.new(0, 0.1),,,,
     NumberSequenceKeypoint.new(1, 0)
 });
 v25.Lifetime = NumberRange.new(0.5, 1);
