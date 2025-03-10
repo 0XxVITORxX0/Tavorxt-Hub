@@ -1,6 +1,3 @@
--- discord.gg/25ms
-
-
 shared.LoaderTitle = "TavorXt Hub";
 shared.LoaderKeyFrames = {
     [1] = {
